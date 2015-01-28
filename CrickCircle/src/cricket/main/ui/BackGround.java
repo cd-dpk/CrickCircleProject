@@ -6,7 +6,7 @@ import javax.swing.JPanel;
 
 public class BackGround extends JPanel{
 
-	Color color;
+	Color color,color1;
 	JLabel label;
 	
 	public BackGround(Color color) {
